@@ -36,6 +36,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![Screenshot (271)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/ee26322e-9401-4702-ac3a-dbf6c81219c7)
 ![Screenshot (280)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/9a42982a-f3c5-4ae9-b344-6405442198da)
 ![Screenshot (263)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/cf97e8c2-fe1f-4591-b606-c96757ad8e74)
+![Screenshot (264)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/8cb6c881-4ba3-4b39-a6a2-3633d20de191)
+![Screenshot (265)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/76c0a163-9ec6-457a-8b96-78875b48a1f6)
 ![Screenshot (266)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/2adad876-cff0-4024-ba68-f08889e4a35d)
 ![Screenshot (275)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/f5a16396-97c0-4706-a9df-f471140ac7e9)
 ![Screenshot (277)](https://github.com/Sanket-825/next-js-netflix-clone-2025/assets/123058949/822631ca-2d6e-4054-8615-b8e98c23c808)
